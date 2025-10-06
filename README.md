@@ -1,6 +1,9 @@
 # Schotten Totten userstyle
 Replace cards with more legible ones.
 
+## Just show me …
+![screenshot](/img/screenshot.png?raw=true)
+
 ## Prerequisites
 <a href="https://github.com/openstyles/stylus#readme">Stylus</a> or some other way to apply .user.styl-files. Config is done within Stylus:
 
